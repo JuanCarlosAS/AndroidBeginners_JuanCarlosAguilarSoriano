@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notas de Android</string>
+    <string name="agregarNota">Agregar Nota nueva:</string>
+    <string name="tituloNota">Pregunta</string>
+    <string name="descripcionNota">Respuesta</string>
+    <string name="aNota">Agregar</string>
+</resources>
+
